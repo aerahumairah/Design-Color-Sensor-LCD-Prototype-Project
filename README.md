@@ -15,9 +15,9 @@ The circuit was designed in **Multisim** and later fabricated into a **PCB board
 ---
 
 ## Project Structure
-src/ → Arduino C++ code (.ino)
-schematics/ → Circuit & PCB screenshots (from Multisim)
-prototype/ → Photos of soldered PCB, prototype & flashcards
+- src/ → Arduino C++ code (.ino)
+- schematics/ → Circuit & PCB screenshots (from Multisim)
+- prototype/ → Photos of soldered PCB, prototype & flashcards
 
 ---
 
